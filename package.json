@@ -1,0 +1,9 @@
+{
+    "name": "node-api888484954",
+    "main": "server.js",
+    "dependencies": {
+        "express": "~4.0.0",
+        "mongoose": "*",
+        "body-parser": "~1.0.1"
+    }
+}
